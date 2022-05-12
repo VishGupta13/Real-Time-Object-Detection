@@ -16,9 +16,11 @@ TensorFlow: Deep Learning For Model.
 
 Numpy: Used for Scientific Computing. Image is stored in a numpy array.
 # To install the required library, run the following code in your terminal.
-pip install opencv-python
-pip install tensorflow
-pip install numpy
+-pip install opencv-python
+
+-pip install tensorflow
+
+-pip install numpy
 # Models
 ssdmobile net
 # Data Set
