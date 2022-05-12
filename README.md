@@ -32,3 +32,9 @@ Provides the weightage average
 # Flatten
 It Converts the multidimensional array into 1-D Array
 
+# SOME SCREEN SHOTS OF THE PROJECT ARE GIVEN BELOW
+![2022-05-12 (3)](https://user-images.githubusercontent.com/101784792/168118661-d9526e5f-24ed-45d3-9b3e-375b7da8a90b.png)
+
+![2022-05-12 (5)](https://user-images.githubusercontent.com/101784792/168119496-0b46fb47-93c5-4cd8-9cad-9eaa884e8e81.png)
+
+
