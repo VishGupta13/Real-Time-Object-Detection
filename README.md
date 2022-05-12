@@ -16,7 +16,9 @@ pip install numpy
 # Models
 ssdmobile net
 # Data Set
+Data Sets are taken from the: 
 COCO 2020
+# Some Important Terms: 
 # frozen_inference_graph.pb
 Provides the weightage average
 # Flatten
