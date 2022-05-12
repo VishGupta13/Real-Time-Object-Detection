@@ -18,9 +18,19 @@ Numpy: Used for Scientific Computing. Image is stored in a numpy array.
 # To install the required library, run the following code in your terminal.
 -pip install opencv-python
 
--pip install tensorflow
+-pip install tensorflow(Version 3.2.0)
+
+![image](https://user-images.githubusercontent.com/101784792/168120722-490a435d-083a-410c-b4d5-e17467da4662.png)
 
 -pip install numpy
+
+![image](https://user-images.githubusercontent.com/101784792/168120434-f3c01a94-66e8-4078-86f6-919fe100a487.png)
+
+-pip install imageai(version 2.0.2)
+
+![image](https://user-images.githubusercontent.com/101784792/168121037-c663e701-d6ef-4ad1-a017-59fc7782b0dc.png)
+
+
 # Models
 ssdmobile net
 # Data Set
