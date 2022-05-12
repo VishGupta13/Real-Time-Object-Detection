@@ -7,7 +7,9 @@ In this python project, we are going to build the Real Time Object Detection thr
 The project in Python requires you to have basic knowledge of python programming and the OpenCV library. We will be needing following libraries:
 
 OpenCV(Compyuter Vision): A strong library used for machine learning
+
 TensorFlow: Deep Learning For Model.
+
 Numpy: Used for Scientific Computing. Image is stored in a numpy array.
 # To install the required library, run the following code in your terminal.
 pip install opencv-python
